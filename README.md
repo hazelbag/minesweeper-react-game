@@ -1,5 +1,7 @@
 # Minesweeper Game
 
+### Link to live version: https://minesweeperhazelbag.herokuapp.com/
+
 ## Detailed Instructions:
 
 A squares "neighbours" are the squares adjacent above, below, left, right, and all 4 diagonals. Squares on the sides of the board or in a corner have fewer neighbors. The board does not wrap around the edges.
